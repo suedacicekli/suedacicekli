@@ -4,7 +4,7 @@
 
 ## I'm a junior frontend developer.
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on new React Native.
+- 🔭 I’m currently working on React Native.
 - 🌱 I’m currently learning mobile programming.
 - 💬 Ask me about Anything with [instagram] or [twitter]
 - ⚡ I speak 2 languages (Turkish [Native], English [B1])
