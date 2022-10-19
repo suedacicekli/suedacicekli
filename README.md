@@ -4,7 +4,7 @@
 
 ## I'm a junior frontend developer.
 - ✍ You can find my projects here [portfolio]
-- 🔭 I am currently working on PostgreSQL.
+- 🔭 I am currently working on React.
 - 🌱 I learned React Native in the bootcamp of Patika.dev and I can do mobile programming.
 - 💬 Ask me about Anything with [instagram] or [twitter]
 - ⚡ I speak 2 languages (Turkish [Native], English [B1])
